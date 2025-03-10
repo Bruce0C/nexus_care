@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nexuscare-453313",
+  "private_key_id": "282b8c90575a4887f2aa9f47e68c400c73aa5501",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdgXyCm0lFOQkA\nNQZOK9N1YBMl/Outo8vKAjG2QYAgz+xIJ1GtF2nDhqZ5TXbQgor4pEeg2dJa0NQy\n6RXKrpa0RyUsEPdDqz6dI0UppQ+vofOrBxd9hBfgVWQ5lQ2z/3wj5Iq3+LOStpmN\n7GnYo0GS9uHnHqqEGKBjGwPir+9RmPimAo8k0thBUN/4o+nHQEy38trhTAE1IYUx\ncBv7fxQvckIHReRg7cd4CP2n4DgTQuHWjoFE/iPlcQSUlIApiETix9SJQ+WrzreP\nhUwZcHe6SJ5vccw5ZiWkbI4WF0KAhCZYQCOwx6p+TR8mRTwW2uZTVqVOPWdc7gmV\nYm2kX09RAgMBAAECggEADSgbHH7baUXWp7EpQLdlsKZrkhQQbkM5Ct9P00LXY3Dg\n2KBNP6S7tCYT+Ucv9CPs2+aWF+htkCtbOfLnnR769euhOkQqYQCTkC3Uy9ZxX2iV\nL+a/RHCgzRharaORfswsCXhnrOm+xiDGb3bytTAX6Fd1r46ovik1ou1V278WI0Mr\nHlns9yhfb/ocP2WM2G7bJYbEOysiVBgDAkQxsNZRUwc3AApYSCLMXT7edtqQim7i\nP1AB1Vz/9QnqTg9qWMe7/0HA+wh6P+Zphl/KtInALVi21Ue5nRu6pOhT9doGcysW\npO1+snN63ASPW2bZlR1U7Q675GltVwVaS7CxC35caQKBgQD6pdWdtqLKWW8JSp9F\nd4In2ZKDDXaM/w8vvcXYqjQoYos9vY9QP6jn2URwaKp5Q8y8i9Z9BZw6WiTAg/jN\nT7k1XNIy+6rDlaUF94xmN13AdZLe4ZW29dqcVgTDF938rKfNRTpz/AzfTy8418kJ\nzpO1mlEi/ZrHARBgeuQ8NVyXPwKBgQDiPFjrOJxwcS9LbC3WpP5QbG8L5TzIC9QM\nQmTcs16CIzznUBHWvWk6/ILOX0d/b3BmvJtEkCFrfhwJqt3f/xH1PWpeo/5qAiB7\nC3/+zuI44lrku8VFCrlH8CqeWVSnppnk45MmITrRLgPapZZ7PVhJVkPsS9A9VOSh\n+eV7pdqFbwKBgQC8XodFCO4dDsuA+yDpzx/1HPGcJjETU9iw83lOFNQwCadFlkGv\neLhSzhk+NZrwmcCzbpCa0u2PeRGn0UbZ3fF+Ji0e/b5fUQZ9joZoh3Gg43umn3ip\n0Okjlw3rJPPDImrVvRJp+mIeLV9648kF4sdlsv0JQ/jfWHBbYeBHU38rdwKBgFJs\nlCTW0kAxLH75IdYy9KjOaMLXuQZVMONqiR7Thto5BmZsCKPJDH6+ItYXZpAqRLRZ\ngORA8rwcDREEnKOQZbWIs6lZbEapEbZioTZvn4IEDgOJ2bxmxMxN1uksOKiADU+U\nDjd1Id22Oxc8/w9VcUX+1O5RTMQbmtTcm9wpt+ynAoGAMFMmW3xjl7jPB/0tkRpn\nYnS2cbCkLbhF6259Wlu5Lhuitnj90na6193aGBbKZYHsoMw3AIRxc0zb9n/J9Sc2\njxPIK768bEKttrzy+Hi32iFvuum+BelNBdrgaKuMvKQ0G0eeDXhZq0XWsjeimLZ+\n+ZZORGJoHhrA8OWOm6sjld0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nexuscare@nexuscare-453313.iam.gserviceaccount.com",
+  "client_id": "106331444713518306891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nexuscare%40nexuscare-453313.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
